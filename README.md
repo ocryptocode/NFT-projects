@@ -22,6 +22,10 @@ NFTs are unique digital assets that are stored on a blockchain. They have gained
 
 ## Getting Started
 
+NFTs being part of the VORTEX ecosystem.
+
+Get in and innovate.
+
 To get started with any of the projects, clone the repository and navigate to the desired project folder.
 
 ```bash
